@@ -7,4 +7,6 @@ Dont forget to install library Scapy!
 
 pip install scapy
 
+To launch - python ipmacfinder.py
+
 Good luck!
